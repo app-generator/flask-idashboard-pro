@@ -1,6 +1,6 @@
 # [Flask iDashboard PRO](https://appseed.us/admin-dashboards/flask-idashboard-pro)
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Flask](https://palletsprojects.com/p/flask/)
+> Commercial product - Flask Dashboard coded on top of iDashboard PRO crafted by YooKits.
 
 <br />
 
@@ -13,19 +13,19 @@
 - Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
 - UI Kit: **iDashboard PRO** provided by **YooKits**
-- MIT License
+- Commercial License
 - Free support via **Github** issues tracker
 - Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
 - LIVE Demo: [Flask iDashboard PRO](https://flask-idashboard-pro.appseed.us/login.html)
-- Official Page: [Boierplate Code Flask](https://appseed.us/admin-dashboards/flask-idashboard-pro)
-- Documentation: [Boierplate Code Flask](https://docs.appseed.us/admin-dashboards/flask-idashboard-pro)
+- Official Page: [Flask iDashboard PRO](https://appseed.us/admin-dashboards/flask-idashboard-pro)
+- Documentation: [Flask iDashboard PRO](https://docs.appseed.us/admin-dashboards/flask-idashboard-pro)
 
 <br />
 
-![Boierplate Code Flask  Dashboard - Open-Source template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-idashboard-pro/master/media/flask-idashboard-pro-screen.png)
+![Flask iDashboard PRO - Open-Source template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-idashboard-pro/master/media/flask-idashboard-pro-screen.png)
 
 <br />
 
@@ -33,8 +33,8 @@
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/flask-idashboard-pro.git
-$ cd flask-idashboard-pro
+$ git clone https://github.com/app-generator/priv-flask-idashboard-pro.git
+$ cd priv-flask-idashboard-pro
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
