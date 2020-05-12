@@ -13,19 +13,19 @@
 - Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
 - UI Kit: **iDashboard PRO** provided by **YooKits**
-- Commercial License
+- **Commercial License**
 - Free support via **Github** issues tracker
 - Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
-- LIVE Demo: [Flask iDashboard PRO](https://flask-idashboard-pro.appseed.us/login.html)
-- Official Page: [Flask iDashboard PRO](https://appseed.us/admin-dashboards/flask-idashboard-pro)
-- Documentation: [Flask iDashboard PRO](https://docs.appseed.us/admin-dashboards/flask-idashboard-pro)
+- [Flask iDashboard PRO](https://flask-idashboard-pro.appseed.us/login.html) - LIVE Demo
+- [Flask iDashboard PRO](https://appseed.us/admin-dashboards/flask-idashboard-pro) - Official product page
+- [Flask iDashboard PRO](https://docs.appseed.us/admin-dashboards/flask-idashboard-pro) - Official documentation
 
 <br />
 
-![Flask iDashboard PRO - Open-Source template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-idashboard-pro/master/media/flask-idashboard-pro-screen.png)
+![Flask iDashboard PRO - Commercial admin panel coded in Flask by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-idashboard-pro/master/media/flask-idashboard-pro-screen.png)
 
 <br />
 
