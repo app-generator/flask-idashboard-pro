@@ -1,6 +1,6 @@
 # [Flask iDashboard PRO](https://appseed.us/admin-dashboards/flask-idashboard-pro)
 
-> Commercial product - Flask Dashboard coded on top of iDashboard PRO crafted by YooKits.
+> Commercial product - **Flask Dashboard** coded on top of **iDashboard PRO** crafted by **YooKits**.
 
 <br />
 
