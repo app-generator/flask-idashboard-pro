@@ -19,7 +19,7 @@
 
 > Links
 
-- [Flask iDashboard PRO](https://flask-idashboard-pro.appseed.us/login.html) - LIVE Demo
+- [Flask iDashboard PRO](https://flask-idashboard-pro.appseed.us/) - LIVE Demo
 - [Flask iDashboard PRO](https://appseed.us/admin-dashboards/flask-idashboard-pro) - Official product page
 
 <br />
